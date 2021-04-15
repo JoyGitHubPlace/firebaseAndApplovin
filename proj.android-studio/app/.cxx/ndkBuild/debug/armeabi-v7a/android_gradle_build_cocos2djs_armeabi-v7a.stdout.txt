@@ -1,0 +1,20 @@
+Android NDK: WARNING: Unsupported source file extensions in D:\CocosDashboard_1.0.6\resources\.editors\Creator\2.3.4\resources\cocos2d-x/cocos/Android.mk for module cocos2dx_static    
+Android NDK:   renderer/memop/RecyclePool.hpp    
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= EffectVariant.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= EffectBase.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_gfx_auto.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= WebSocketServer.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_renderer_manual.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_renderer_auto.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_gfx_manual.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_cocos2dx_audioengine_auto.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= SocketIO.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= WebSocket-libwebsockets.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_websocket_server.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_socketio.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= jsb_websocket.cpp
+[armeabi-v7a] Compile++ thumb: audioengine_static <= mp3reader.cpp
+[armeabi-v7a] Compile++ thumb: audioengine_static <= tinysndfile.cpp
+[armeabi-v7a] Compile++ arm  : cocos2djs <= main.cpp
+[armeabi-v7a] Compile++ arm  : cocos2dx_static <= cocos2d.cpp
+[armeabi-v7a] Compile++ arm  : cocos2djs <= AppDelegate.cpp

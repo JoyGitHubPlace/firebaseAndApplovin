@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "454937304287",
+    "project_id": "battle-of-wilderness",
+    "storage_bucket": "battle-of-wilderness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454937304287:android:526cca34ccfa5be6869d6a",
+        "android_client_info": {
+          "package_name": "rabi.battle.royale.pubg.mobile.game.warrior.ground.fps.fight.shoot.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454937304287-gc7dfvkvqhtk7nlvjkle1sfvccd0jpje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rabi.battle.royale.pubg.mobile.game.warrior.ground.fps.fight.shoot.io",
+            "certificate_hash": "b79197a9ba4551396f0f32201d2c7de76712a6f4"
+          }
+        },
+        {
+          "client_id": "454937304287-ca76sng49e8n0rdd18dr5gbk86rjq4lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4cyB_0kcbVKLmmuf8ijVbaUANYcX1tsw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+            "status": 1
+          },
+          "cloud_messaging_service": {
+            "status": 2,
+            "apns_config": []
+          },
+          "appinvite_service": {
+            "status": 2,
+            "other_platform_oauth_client": [
+              {
+                "client_id": "454937304287-ca76sng49e8n0rdd18dr5gbk86rjq4lt.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          },
+          "google_signin_service": {
+            "status": 2
+          },
+          "ads_service": {
+            "status": 2,
+            "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+            "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+          }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/tremolo/Tremolo/floor0.c:61:13: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  if(a<(-140<<12)) return 0;
+        ~~~~^
+1 warning generated.
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:313:5: warning: control reaches end of non-void function [-Wreturn-type]
+    }
+    ^
+1 warning generated.

@@ -1,0 +1,4 @@
+include ':libcocos2dx'
+project(':libcocos2dx').projectDir = new File('D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/libcocos2dx')
+include ':RabiBattleRoyale'
+project(':RabiBattleRoyale').projectDir = new File(settingsDir, 'app')

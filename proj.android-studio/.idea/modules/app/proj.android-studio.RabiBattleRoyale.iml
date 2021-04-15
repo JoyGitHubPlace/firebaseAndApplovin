@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":RabiBattleRoyale" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="proj.android-studio" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":RabiBattleRoyale" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.0.1" />
+      </configuration>
+    </facet>
+    <facet type="native-android-gradle" name="Native-Android-Gradle">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="release-arm64-v8a" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="release" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleRelease" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileReleaseSources" />
+        <afterSyncTasks>
+          <task>generateReleaseSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../res;file://$MODULE_DIR$/../../../app/res;file://$MODULE_DIR$/../../../app/src/release/res;file://$MODULE_DIR$/../../../app/build/generated/res/google-services/release;file://$MODULE_DIR$/../../../app/build/generated/res/rs/release" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/release/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/releaseUnitTest/classes" />
+    <exclude-output />
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio/android">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio/android" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio/android/audio_utils">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio/android/audio_utils" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio/android/utils">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/audio/android/utils" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/base">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/base" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/editor-support">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/editor-support" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/editor-support/particle">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/editor-support/particle" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/math">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/math" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/network">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/network" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/jni">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/jni" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/gfx">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/gfx" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/renderer">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/renderer" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene/assembler">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene/assembler" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/auto">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/auto" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/event">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/event" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/jswrapper/v8/debugger" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/manual">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/scripting/js-bindings/manual" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/storage/local-storage">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/storage/local-storage" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/ui/edit-box">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/ui/edit-box" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/extensions/assets-manager">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/extensions/assets-manager" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/ConvertUTF">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/ConvertUTF" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/pvmp3dec/src">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/pvmp3dec/src" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/tinyxml2">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/tinyxml2" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/tremolo/Tremolo">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/tremolo/Tremolo" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/unzip">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/unzip" isTestSource="false" />
+    </content>
+    <content url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/xxtea">
+      <sourceFolder url="file://D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/xxtea" isTestSource="false" />
+    </content>
+    <content url="file://D:/SDK/Android/SDK/ndk-bundle/sources/android/cpufeatures">
+      <sourceFolder url="file://D:/SDK/Android/SDK/ndk-bundle/sources/android/cpufeatures" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../Classes">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Classes" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/release" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/google-services/release" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/release/out" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.externalNativeBuild" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../jni/hellojavascript">
+      <sourceFolder url="file://$MODULE_DIR$/../../../jni/hellojavascript" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../res">
+      <sourceFolder url="file://$MODULE_DIR$/../../../res" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/java/libs/com.android.vending.expansion.zipfile.jar" level="project" />
+    <orderEntry type="library" name="Gradle: D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/java/libs/okhttp-3.12.7.jar" level="project" />
+    <orderEntry type="library" name="Gradle: D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/java/libs/okio-1.15.0.jar" level="project" />
+    <orderEntry type="library" name="Gradle: ./.safedk/api/SafeDKAndroid-4.8.10.jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.picasso:picasso:2.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:15.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders:16.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.room:room-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-annotations:16.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-android:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-applinks:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-tasks:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.zxing:core:3.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.12.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.15.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth:20.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth:19.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-login:4.42.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-common:4.42.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:google-adapter:19.8.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.browser:browser:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-messaging:21.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-extensions:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin:applovin-sdk:10.1.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:facebook-adapter:6.2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:adcolony-adapter:4.5.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:fyber-adapter:7.8.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:inmobi-adapter:9.9.9.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:smaato-adapter:21.5.8.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:vungle-adapter:6.8.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.applovin.mediation:unityads-adapter:3.6.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-api:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-impl:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.ump:user-messaging-platform:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.kochava.base:tracker:3.9.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.installreferrer:installreferrer:2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-instantapps:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-places:9.6.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-maps:9.6.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: gdut.bsx:share2:0.9.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.billingclient:billing:3.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-api-phone:17.4.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-safetynet:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth-interop:19.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-base:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:21.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid-interop:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:17.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-installations:16.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-datatransport:17.0.10@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common:19.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cloud-messaging:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-installations-interop:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:17.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-stats:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-measurement-connector:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:audience-network-sdk:6.2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-core:4.42.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.vungle:publisher-sdk-android:6.8.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.media:media:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.work:work-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.room:room-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-components:16.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-backend-cct:2.3.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders-json:17.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-runtime:2.2.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-api:2.2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-process:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-service:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:smaato-sdk-in-app-bidding:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:smaato-sdk:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:smaato-sdk-banner:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:smaato-sdk-interstitial:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:smaato-sdk-rewarded-ads:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:module-richmedia:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:module-video:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:module-core:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.smaato.android.sdk:smaato-sdk-base:21.5.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.sqlite:sqlite-framework:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.sqlite:sqlite:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-base:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.adcolony:sdk:4.5.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.fyber.vamp:core-sdk:7.8.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.fyber.vamp:video-kit:7.8.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.fyber.vamp:mraid-kit:7.8.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.inmobi.monetization:inmobi-ads:9.9.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.unity3d.ads:unity-ads:3.6.0@aar" level="project" />
+    <orderEntry type="module" module-name="proj.android-studio.libcocos2dx" />
+  </component>
+</module>

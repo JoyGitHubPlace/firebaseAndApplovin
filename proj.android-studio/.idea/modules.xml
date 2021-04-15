@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proj.android-studio.iml" filepath="$PROJECT_DIR$/.idea/modules/proj.android-studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/proj.android-studio.RabiBattleRoyale.iml" filepath="$PROJECT_DIR$/.idea/modules/app/proj.android-studio.RabiBattleRoyale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1878013974/proj.android-studio.libcocos2dx.iml" filepath="$PROJECT_DIR$/.idea/modules/-1878013974/proj.android-studio.libcocos2dx.iml" />
+    </modules>
+  </component>
+</project>

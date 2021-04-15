@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Rabi Battle Royale</string>
+    <string name="facebook_app_id" translatable="false">814719899120434</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb814719899120434</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+    <string name="default_notification_channel_name" translatable="false">Rbrpush</string>
+    <string name="msg_subscribe_failed" translatable="false">Failed to subscribe to Rbrpush topic</string>
+    <string name="fcm_message" translatable="false">Winner Winner, Chicken Dinner</string>
+    <string name="msg_subscribed" translatable="false">Subscribed to Rbrpush topic</string>
+</resources>

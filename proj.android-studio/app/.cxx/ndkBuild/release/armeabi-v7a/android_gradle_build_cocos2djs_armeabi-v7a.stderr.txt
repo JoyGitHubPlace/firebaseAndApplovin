@@ -1,0 +1,22 @@
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene/assembler/CustomAssembler.cpp:94:76: warning: format specifies type 'unsigned long' but the argument has type 'std::size_t' (aka 'unsigned int') [-Wformat]
+        cocos2d::log("CustomAssembler:updateIA index:%lu is out of range", index);
+                                                     ~~~                   ^~~~~
+                                                     %u
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene/assembler/CustomAssembler.cpp:130:73: warning: format specifies type 'unsigned long' but the argument has type 'std::size_t' (aka 'unsigned int') [-Wformat]
+    cocos2d::log("CustomAssembler:updateEffect index:%lu out of range", index);
+                                                     ~~~                ^~~~~
+                                                     %u
+2 warnings generated.
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/renderer/scene/StencilManager.cpp:142:74: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::vector<bool, std::__ndk1::allocator<bool> >::size_type' (aka 'unsigned int') [-Wformat]
+        cocos2d::log("StencilManager:exitMask _maskStack:%lu size is 0", _maskStack.size());
+                                                         ~~~             ^~~~~~~~~~~~~~~~~
+                                                         %u
+1 warning generated.
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/external/sources/tremolo/Tremolo/floor0.c:61:13: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  if(a<(-140<<12)) return 0;
+        ~~~~^
+1 warning generated.
+D:/CocosDashboard_1.0.6/resources/.editors/Creator/2.3.4/resources/cocos2d-x/cocos/platform/android/jni/JniImp.cpp:313:5: warning: control reaches end of non-void function [-Wreturn-type]
+    }
+    ^
+1 warning generated.
